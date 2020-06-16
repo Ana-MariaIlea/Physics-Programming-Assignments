@@ -1,0 +1,5 @@
+D:\school\term_3\Physics programming\Week1CodeSamples+\Week1+\002_ball_vector_position\bin\Debug\GXPEngine.exe
+D:\school\term_3\Physics programming\Week1CodeSamples+\Week1+\002_ball_vector_position\bin\Debug\GXPEngine.pdb
+D:\school\term_3\Physics programming\Week1CodeSamples+\Week1+\002_ball_vector_position\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
+D:\school\term_3\Physics programming\Week1CodeSamples+\Week1+\002_ball_vector_position\obj\x86\Debug\GXPEngine.exe
+D:\school\term_3\Physics programming\Week1CodeSamples+\Week1+\002_ball_vector_position\obj\x86\Debug\GXPEngine.pdb

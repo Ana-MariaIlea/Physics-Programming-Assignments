@@ -1,0 +1,98 @@
+﻿using System;
+using GXPEngine;
+
+public class Ball : EasyDraw
+{
+	public Vec2 position {
+		get {
+			return _position;
+		}
+	}
+	public Vec2 velocity;
+
+	int _radius;
+	Vec2 _position;
+	float _speed;
+	float speed = 0;
+	public bool gameOver = false;
+	
+
+	public Ball (int pRadius, Vec2 pPosition, float pSpeed=5) : base (pRadius*2 + 1, pRadius*2 + 1)
+	{
+		_radius = pRadius;
+		_position = pPosition;
+		_speed = pSpeed;
+
+		UpdateScreenPosition ();
+		SetOrigin (_radius, _radius);
+
+		Draw(150, 0, 255);
+		velocity.x = 0;
+		velocity.y = 0;
+
+	}
+
+	void Draw(byte red, byte green, byte blue) {
+		Fill (red, green, blue);
+		Stroke (red, green, blue);
+		Ellipse (_radius, _radius, 2*_radius, 2*_radius);
+	}
+
+	void KeyControls() {
+
+		velocity.x = 0;
+		velocity.y = 0;
+
+		if (Input.GetKey (Key.RIGHT)) {
+			velocity.x += _speed;
+		} else if (Input.GetKey (Key.LEFT)) {
+			velocity.x -= _speed;
+		} 
+
+		if (Input.GetKey (Key.UP)) {
+			velocity.y -= _speed;
+		} else if (Input.GetKey (Key.DOWN)) {
+			velocity.y += _speed;
+		}
+		velocity.Normalize();
+		velocity *= 5;
+	}
+
+	void followMouse()
+	{
+		//velocity.x *= 0.49f;
+		//velocity.y *= 0.99f;
+		velocity *= 0.99f;
+		speed+=0.1f;
+		Vec2 deltaVector = new Vec2(Input.mouseX, Input.mouseY) - _position;
+
+		if (deltaVector.Magnitude() <= _radius) gameOver = true;
+
+		deltaVector.Normalize();
+		deltaVector *= speed;
+		velocity += deltaVector * 0.01f;
+		
+	}
+
+	void UpdateScreenPosition() {
+		x = _position.x;
+		y = _position.y;
+	}
+
+	public void Step () {
+		//if (gameOver == false)
+		//{
+		//	followMouse();
+		//}
+		//else
+		//{
+		//	velocity.SetXY(0, 0);
+		//	speed = 0;
+		//}
+		KeyControls ();
+
+		_position += velocity;
+
+		UpdateScreenPosition ();
+	}
+}

@@ -1,0 +1,11 @@
+D:\school\term_3\Physics programming\Week4CodeSamples+\Week4+\002_line_collision_detection\bin\Debug\GXPEngine.exe
+D:\school\term_3\Physics programming\Week4CodeSamples+\Week4+\002_line_collision_detection\bin\Debug\GXPEngine.pdb
+D:\school\term_3\Physics programming\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.exe
+D:\school\term_3\Physics programming\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.pdb
+D:\school\term_3\Physics programming\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week4CodeSamples+\Week4+\002_line_collision_detection\bin\Debug\GXPEngine.exe
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week4CodeSamples+\Week4+\002_line_collision_detection\bin\Debug\GXPEngine.pdb
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.exe
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week4CodeSamples+\Week4+\002_line_collision_detection\obj\x86\Debug\GXPEngine.pdb

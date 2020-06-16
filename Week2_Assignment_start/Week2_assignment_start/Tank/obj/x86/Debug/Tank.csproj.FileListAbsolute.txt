@@ -1,0 +1,11 @@
+D:\school\term_3\Physics programming\Week2_Assignment_start\Week2_assignment_start\Tank\bin\Debug\Tank.exe
+D:\school\term_3\Physics programming\Week2_Assignment_start\Week2_assignment_start\Tank\bin\Debug\Tank.pdb
+D:\school\term_3\Physics programming\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csprojAssemblyReference.cache
+D:\school\term_3\Physics programming\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.exe
+D:\school\term_3\Physics programming\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.pdb
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week2_Assignment_start\Week2_assignment_start\Tank\bin\Debug\Tank.exe
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week2_Assignment_start\Week2_assignment_start\Tank\bin\Debug\Tank.pdb
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csprojAssemblyReference.cache
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csproj.CoreCompileInputs.cache
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.exe
+D:\school\term_3\Physics programming\gitHubPhysicsAssignments\Physics-Programming-Assignments\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.pdb
